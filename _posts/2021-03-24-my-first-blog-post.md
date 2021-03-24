@@ -1,3 +1,8 @@
+---
+title: "Practice-Blog-Post"
+date: YYYY-MM-DD
+---
+
 # Practice Blog Post
 
 ## Data Analyst Intern Experience
