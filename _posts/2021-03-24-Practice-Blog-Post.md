@@ -1,4 +1,3 @@
-
 ---
 title: "Practive-Blog-Post"
 date: 2021-03-24
