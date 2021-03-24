@@ -1,8 +1,8 @@
----
-title: "Practice-Blog-Post"
-date: 2021-03-04
----
 
+---
+title: "Practive-Blog-Post"
+date: 2021-03-24
+---
 # Practice Blog Post
 
 ## Data Analyst Intern Experience
